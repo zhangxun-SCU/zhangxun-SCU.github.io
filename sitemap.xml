@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zhangxun-scu.github.io/archives/140ab620.html</loc>
-    
-    <lastmod>2022-10-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zhangxun-scu.github.io/archives/5a8a7c8a.html</loc>
     
     <lastmod>2022-10-09</lastmod>
@@ -142,14 +133,14 @@
   </url>
   
   <url>
-    <loc>https://zhangxun-scu.github.io/tags/JS/</loc>
+    <loc>https://zhangxun-scu.github.io/tags/Java/</loc>
     <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhangxun-scu.github.io/tags/Java/</loc>
+    <loc>https://zhangxun-scu.github.io/tags/JS/</loc>
     <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -200,14 +191,14 @@
   </url>
   
   <url>
-    <loc>https://zhangxun-scu.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://zhangxun-scu.github.io/categories/Java/</loc>
     <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhangxun-scu.github.io/categories/Java/</loc>
+    <loc>https://zhangxun-scu.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
