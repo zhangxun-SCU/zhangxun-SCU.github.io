@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>lxml.etree.XMLSyntaxError-Opening and ending tag mismatch</title>
+      <link href="/archives/a109a8fb.html"/>
+      <url>/archives/a109a8fb.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="lxmletreexmlsyntaxerror-opening-and-ending-tag-mismatch"><a class="markdownIt-Anchor" href="#lxmletreexmlsyntaxerror-opening-and-ending-tag-mismatch"></a> lxml.etree.XMLSyntaxError: Opening and ending tag mismatch</h1><p>今天在初步尝试python xpath解析html文件时，选择了我自己之前学习三件套时写的html作为测试，代码如下:</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> lxml <span class="keyword">import</span> etree</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">&#x27;__main__&#x27;</span>:</span><br><span class="line">    tree = etree.parse(<span class="string">&#x27;test.html&#x27;</span>)</span><br><span class="line">    title = tree.xpath(<span class="string">&#x27;/html/head/title/text()&#x27;</span>)</span><br><span class="line">    <span class="built_in">print</span>(title)</span><br><span class="line">    a = tree.xpath(<span class="string">&#x27;//header//a/@href&#x27;</span>)</span><br><span class="line">    <span class="built_in">print</span>(a)</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>没想到出师不利，出现如下错误</p><p><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/644/image-20221212222852118.png" alt="image-20221212222852118" /></p><p>查证后发现是因为写html不和规范，规范的应该是所有标签都要以‘/’结束，双标签不谈，但标签也要以‘/’结束，这才符合规范（虽然现在很多标签都可以不用在末尾加上’/‘）</p><p><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/644/image-20221212223514726.png" alt="image-20221212223514726" /></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> bug集锦 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> bug </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>C++输入输出和文件操作</title>
       <link href="/archives/8d591c47.html"/>
       <url>/archives/8d591c47.html</url>
