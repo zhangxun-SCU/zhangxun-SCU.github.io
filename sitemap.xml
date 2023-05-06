@@ -176,14 +176,7 @@
   </url>
   
   <url>
-    <loc>https://zhangxun-scu.github.io/tags/%E6%95%B0%E5%AD%A6/</loc>
-    <lastmod>2023-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhangxun-scu.github.io/tags/JS/</loc>
+    <loc>https://zhangxun-scu.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -197,7 +190,7 @@
   </url>
   
   <url>
-    <loc>https://zhangxun-scu.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://zhangxun-scu.github.io/tags/JS/</loc>
     <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -205,6 +198,13 @@
   
   <url>
     <loc>https://zhangxun-scu.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2023-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhangxun-scu.github.io/tags/%E6%95%B0%E5%AD%A6/</loc>
     <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -241,7 +241,7 @@
   </url>
   
   <url>
-    <loc>https://zhangxun-scu.github.io/categories/%E6%95%B0%E5%AD%A6/</loc>
+    <loc>https://zhangxun-scu.github.io/categories/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -255,14 +255,14 @@
   </url>
   
   <url>
-    <loc>https://zhangxun-scu.github.io/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://zhangxun-scu.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
     <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhangxun-scu.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
+    <loc>https://zhangxun-scu.github.io/categories/%E6%95%B0%E5%AD%A6/</loc>
     <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
